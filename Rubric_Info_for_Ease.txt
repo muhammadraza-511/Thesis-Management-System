@@ -1,0 +1,35 @@
+Nested Subqueries:
+-> Used in sql triggers
+
+Group/Order by:
+-> AdminDeleteDataFoam
+-> AdminRegisterPanelMember
+-> AdminRegisterStudent
+-> PMRegister
+-> StudentRegister
+-> SubmitProposalStudentFoam
+
+Two Table Joins:
+-> used in sql triggers
+
+Three Table joins:
+-> AdminViewPMInfo
+-> AdminViewStudentInfo
+
+
+
+Four Tables Joins:
+-> Admin Menu -> AdminViewUserData
+-> PanelMember Menu -> PMRetrieveInfo
+
+View/Report
+-> AdminViewDataFoam
+-> AdminViewUserData
+-> PMRetrieveInfo
+-> StudentMailBoxCheckFoam
+-> SupervisorViewProposal
+-> AdminViewPMInfo
+-> AdminViewStudentInfo
+
+
+
